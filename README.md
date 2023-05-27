@@ -6,5 +6,5 @@ Twitter: https://twitter.com/Emani_Aditya
 
 LinkedIn: https://www.linkedin.com/in/emaniaditya/
 
-Exploring and Building my hobbies, one moment at a time......join me and be my virtual buddy....
+Exploring and Building my hobbies, one moment at a time......
 btw I'm from India 🇮🇳......:) 
