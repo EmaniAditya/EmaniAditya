@@ -1,1 +1,1 @@
-Hi there! I'm Aditya
+hi, i am aditya
