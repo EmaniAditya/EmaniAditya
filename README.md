@@ -4,7 +4,7 @@ I am a Fullstack Software Developer. Skilled in Node.js, Next.js, PostgreSQL, an
 
 Read more about me at my website [here](https://emaniaditya.github.io).
 
-## Connect with me
+## Contacts
 
 [<img align="left" alt="Email" height="22px" src="https://mail.google.com/favicon.ico" />](mailto:esaadityareddy@gmail.com)
 [<img align="left" alt="LinkedIn" height="22px" src="https://www.linkedin.com/favicon.ico" />](https://www.linkedin.com/in/adityaemani5)
