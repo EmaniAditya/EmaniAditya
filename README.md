@@ -2,7 +2,7 @@
 
 I am a Developer. Skilled in Node.js, Next.js, PostgreSQL, and the MERN stack. I'm currently pursuing a B.Tech in Computer Science at SRU, Raipur, and I have experience as a Web Development Intern at KODAAC. I'm passionate about building innovative tech solutions and am open to work in Software Development or Full-stack Developer roles.
 
-My resume [here](https://emaniaditya.github.io/resume). 
+My resume [here](https://emaniaditya.github.io/resume). <br>
 Read more about me at my website [here](https://emaniaditya.github.io).
 
 
