@@ -7,7 +7,7 @@ I am a Developer. Skilled in the MERN stack. I'm currently pursuing a B.Tech in 
 
 [<img align="left" alt="Email" height="22px" src="https://mail.google.com/favicon.ico" />](mailto:esaadityareddy@gmail.com)
 
-<!--
+<!-- Project data for dynamic fetching by websites - See PROJECT_DATA_GUIDE.md for details -->
 PROJECT-DATA-START
 [
   {
@@ -36,4 +36,3 @@ PROJECT-DATA-START
   }
 ]
 PROJECT-DATA-END
--->
