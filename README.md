@@ -79,14 +79,13 @@ Official website for TATA Authorized Service Station in Raipur, providing compre
   </a>
 </div>
 
-<!-- Hidden project data section that will be fetched by the developer profile -->
-<!-- PROJECT-DATA-START -->
+<!--
+PROJECT-DATA-START
 [
   {
     "title": "Premove",
     "description": {
-      "en": "Fleet management SaaS across web, Android & iOS",
-      "hi": "वेब, एंड्रॉयड और आईओएस पर फ्लीट मैनेजमेंट सॉफ्टवेयर"
+      "en": "Fleet management SaaS across web, Android & iOS"
     },
     "url": "https://premove.app",
     "techs": ["React", "Node.js", "React Native"]
@@ -94,8 +93,7 @@ Official website for TATA Authorized Service Station in Raipur, providing compre
   {
     "title": "Capital Diesels",
     "description": {
-      "en": "Modern website for Authorized Bosch Diesel Service center in Raipur",
-      "hi": "रायपुर में अधिकृत बॉश डीजल सेवा केंद्र के लिए आधुनिक वेबसाइट"
+      "en": "Modern website for Authorized Bosch Diesel Service center in Raipur"
     },
     "url": "https://capitaldiesels.com",
     "techs": ["React", "Tailwind CSS"]
@@ -103,11 +101,11 @@ Official website for TATA Authorized Service Station in Raipur, providing compre
   {
     "title": "Shreejee Automobiles",
     "description": {
-      "en": "Official website for TATA Authorized Service Station in Raipur",
-      "hi": "रायपुर में टाटा अधिकृत सेवा केंद्र के लिए आधिकारिक वेबसाइट"
+      "en": "Official website for TATA Authorized Service Station in Raipur"
     },
     "url": "https://shreejeeautomobiles.com",
     "techs": ["React", "TypeScript", "Framer Motion", "Tailwind CSS"]
   }
 ]
-<!-- PROJECT-DATA-END -->
+PROJECT-DATA-END
+-->
