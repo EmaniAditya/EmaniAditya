@@ -7,32 +7,4 @@ I am a Developer. Skilled in the MERN stack. I'm currently pursuing a B.Tech in 
 
 [<img align="left" alt="Email" height="22px" src="https://mail.google.com/favicon.ico" />](mailto:esaadityareddy@gmail.com)
 
-<!-- Project data for dynamic fetching by websites - See PROJECT_DATA_GUIDE.md for details -->
-PROJECT-DATA-START
-[
-  {
-    "title": "Premove",
-    "description": {
-      "en": "Fleet management SaaS across web, Android & iOS"
-    },
-    "url": "https://premove.app",
-    "techs": ["React", "Node.js", "React Native"]
-  },
-  {
-    "title": "Capital Diesels",
-    "description": {
-      "en": "Modern website for Authorized Bosch Diesel Service center in Raipur"
-    },
-    "url": "https://capitaldiesels.com",
-    "techs": ["React", "Tailwind CSS"]
-  },
-  {
-    "title": "Shreejee Automobiles",
-    "description": {
-      "en": "Official website for TATA Authorized Service Station in Raipur"
-    },
-    "url": "https://shreejeeautomobiles.com",
-    "techs": ["React", "TypeScript", "Framer Motion", "Tailwind CSS"]
-  }
-]
-PROJECT-DATA-END
+
