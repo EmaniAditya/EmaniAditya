@@ -1,9 +1,9 @@
 # Hi, I'm Aditya 👋
 
-I am a Developer. Skilled in the MERN stack. I'm currently pursuing a B.Tech in Computer Science at SRU, Raipur. I'm passionate about building innovative tech solutions and am open to work in Software Development or Full-stack Developer roles.
+Full Stack Developer skilled in React, Node.js, and TypeScript. I turn ideas into live web & mobile apps.
 
 My resume [here](https://emaniaditya.github.io/resume). <br>
-Read more about me at my website [here](https://emaniaditya.github.io).
+More about me [here](https://emaniaditya.github.io).
 
 
 ## Contacts
