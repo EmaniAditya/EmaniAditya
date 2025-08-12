@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-I turn ideas into live web & mobile apps. (actually I try to).
+I turn ideas into live web & mobile apps.
 
 My resume [here](https://emaniaditya.github.io/resume). <br>
 More about me [here](https://emaniaditya.github.io).
